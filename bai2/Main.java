@@ -67,4 +67,3 @@ public class Main {
         sp1.hienThiThongTin();
     }
 }
-u
